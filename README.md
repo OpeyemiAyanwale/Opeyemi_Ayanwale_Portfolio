@@ -11,6 +11,6 @@ This project created schema and database employees_db which has four tables: Emp
 
 
 
-# [Project 3: Grocery Chain Project with Microsoft SQL Server (SSIS)](https://github.com/OpeyemiAyanwale/SQL-Query)
+# [Project 3: Grocery Chain Project with Microsoft SQL Server Integration Service (SSIS)](https://github.com/OpeyemiAyanwale/SQL-Query)
 
 The project requires building an Enterprise Data ware housing that addresses the analytics requirements for the business. The following database Grocery, Grocecer Online Transaction Processing (OLTP), Grocery Staging, Grocery Warehouse were created.
