@@ -18,4 +18,4 @@ The project requires building an Enterprise Data ware housing that addresses the
 
 The project uses the super store dataset for this analysis. Data preparation, modeling and visualization were carried out using Microsoft Power BI combine with excel.
 
-SQL Server Management Studio (SSMS) 
+
