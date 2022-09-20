@@ -9,13 +9,11 @@ This project uses the dataset of the International Data Base (IDB) of U.S. Censu
 This project created schema and database employees_db which has four tables: Employees, Locations, and Departments. SQL queries and subqueries was use to solve the following question in the SQL project file.
 
 
-
 # [Project 3: Grocery Chain Project with Microsoft SQL Server Integration Service (SSIS)](https://github.com/OpeyemiAyanwale/SQL-Query)
 
-The project requires building an Enterprise Data ware housing that addresses the analytics requirements for the business. The following database Grocery, Grocecer Online Transaction Processing (OLTP), Grocery Staging, Grocery Warehouse were created.
-
+The project requires building an Enterprise Data ware housing that addresses the analytics requirements for the business. The following database Grocery, Grocecey Online Transaction Processing (OLTP), Grocery Staging, Grocery Warehouse were created.
 
 
 # [Project 4: Data Analytics Essentials with Power BI](https://github.com/OpeyemiAyanwale/Data-Analytics-Essentials-with-Power-BI)
 
-The project uses the super store data for analysis. Data preparation, modeling and visualization were carried out using Microsoft Power BI combine with excel.
+The project uses the super store dataset for this analysis. Data preparation, modeling and visualization were carried out using Microsoft Power BI combine with excel.
