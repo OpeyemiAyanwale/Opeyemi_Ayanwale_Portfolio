@@ -20,6 +20,4 @@ The project uses the super store dataset for this analysis. Data preparation, mo
 
 
 # [Project : Multivariate Analysis in R](https://github.com/OpeyemiAyanwale/Multivariate-Analysis-in-R)
-Cluster analysis was conducted with the chatterjee-price attitude dataset which can be found in datasets package in R. The data is aggregated from
-a survey of clerical employees which contain 35 employees for 30 randomly selected departments(R Core Team and contributors worldwide, 2021). Non-hierarchical (k-means)
-method is used to determine the distinct group in the Chatterjee-price attitude data.
+Cluster analysis was conducted with the chatterjee-price attitude dataset which can be found in datasets package in R. The data is aggregated from a survey of clerical employees which contain 35 employees for 30 randomly selected departments. Non-hierarchical (k-means)method is used to determine the distinct group in the Chatterjee-price attitude data.
