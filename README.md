@@ -1,4 +1,4 @@
-#My name is Opeyemi Ayanwale, and I am a data analyst with strong analytical and quantitative abilities. I am passionate about leading project that leverage data insights to improve business operations and strategic initiatives. Seeking to apply my data analytics skills to provide digital solutions that meets business objectives and client needs. And here are a few of the projects I worked on for your review in my portfolio.
+My name is Opeyemi Ayanwale, and I am a data analyst with strong analytical and quantitative abilities. I am passionate about leading project that leverage data insights to improve business operations and strategic initiatives. Seeking to apply my data analytics skills to provide digital solutions that meets business objectives and client needs. And here are a few of the projects I worked on for your review in my portfolio.
 
 
 
