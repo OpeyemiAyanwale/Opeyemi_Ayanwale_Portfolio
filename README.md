@@ -1,3 +1,6 @@
+#I am Opeyemi Ayanwale, a data analyst with strong analytical and quantitative skills. I am passionate about leading project that leverage data insights to improve business operations and strategic initiatives. Seeking to apply my data analytics skills to provide digital solutions that meets business objectives and client needs. And here on my portfolio is few of the project I worked on for your review.
+
+
 
 # [Project 1: Descriptive Analysis of Demographic Data Using R](https://github.com/OpeyemiAyanwale/Descriptive-Analysis-of-Demographic-Data)
 
