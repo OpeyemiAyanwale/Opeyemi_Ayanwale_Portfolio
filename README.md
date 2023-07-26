@@ -27,12 +27,12 @@ The project uses the superstore dataset for this analysis. Data preparation, mod
 Cluster analysis was conducted with the Chatterjee-price attitude dataset which can be found in the datasets package in R. The data is aggregated from a survey of clerical employees which contains 35 employees from 30 randomly selected departments. Non-hierarchical (k-means)method is used to determine the distinct group in the Chatterjee-price attitude data.
 
 
-# [Project 6: Data Preprocessing with Python](https://github.com/OpeyemiAyanwale/Data-Preprocessing-Python.git)
+# [Project 6: Data Preprocessing with Python](https://github.com/OpeyemiAyanwale/Data-Preprocessing-Python)
 
 Data preprocessing of the top 500 football player dataset. Efficient vector processing, working with pandas data frames, pandas series objects, indexing, and filtering.
 
 
-# [Project 7: Regression and Machine Learning with Python](https://github.com/OpeyemiAyanwale/Regressions_and_ML.git) 
+# [Project 7: Regression and Machine Learning with Python](https://github.com/OpeyemiAyanwale/Regressions_and_ML) 
 
 Machine learning algorithm (statsmodels, sklearn) with the top 500 football player dataset.  Data visualization using Matplotlib is used to visualize the most valuable player, the market value distribution of players, the age distribution of players, etc.
 
