@@ -39,9 +39,14 @@ Machine learning algorithm (statsmodels, sklearn) with the top 500 football play
 
 # [Project 8: Text Mining](https://github.com/OpeyemiAyanwale/Text_Mining)
 
-Text Mining (spacy, sklearn, gensim): preprocessing, tokenization, sentiment analysis and topic modeling.
+This is a short project on text mining (spacy, sklearn, gensim): preprocessing, tokenization, sentiment analysis and topic modeling.
 
 
 # [Project 9: Combined Project (Data preprocessing and plots, Regression, and Webscraping)](https://github.com/OpeyemiAyanwale/Combined-Project)
 
 This is a combined project that consists of data preprocessing and plots, regression analysis to estimate all possible models, and webscraping that scrapes the Wikipedia articles for all US presidents and extracts specific information from each page. Start by accessing the URL 'https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States'. Then, use this page to generate a CSV file named 'US_presidents.csv'.
+
+
+# [Project 10: Comparision of Multiple Distribution](https://github.com/OpeyemiAyanwale/Comparison_Multiple_Distribution)
+
+Descriptive statistics to briefly describe the distribution of the variables. Conducted a global test and pairwise differences between all pairs of categories. Conducted two-sample tests and adjusted the test results with the Bonferroni correction and Tukey’s Honest Significant Difference (HSD). Compared the results of these two correction methods with the results of the non-adjusted test.
