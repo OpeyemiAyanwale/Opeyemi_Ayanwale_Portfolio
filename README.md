@@ -54,7 +54,7 @@ Descriptive statistics to briefly describe the distribution of the variables. Co
 
 # [Project 11: Regression Analysis](https://github.com/OpeyemiAyanwale/Regression_Analysis)
 
-Examine the relationship between the dependent (response) and independent (explanatory) variables. Select a suitable subset of independent variables for the best subset model. Evaluate the model, create a residual plot and examine it for patterns of linearity, heteroskedasticity, and normality
+Examined the relationship between the dependent (response) and independent (explanatory) variables. Select a suitable subset of independent variables for the best subset model. Evaluate the model, create a residual plot and examine it for patterns of linearity, heteroskedasticity, and normality
 
 
 # [Project 12: Inventory Management System](https://github.com/OpeyemiAyanwale/Inventory-Management-System)
