@@ -50,3 +50,8 @@ This is a combined project that consists of data preprocessing and plots, regres
 # [Project 10: Comparision of Multiple Distribution](https://github.com/OpeyemiAyanwale/Comparison_Multiple_Distribution)
 
 Descriptive statistics to briefly describe the distribution of the variables. Conducted a global test and pairwise differences between all pairs of categories. Conducted two-sample tests and adjusted the test results with the Bonferroni correction and Tukey’s Honest Significant Difference (HSD). Compared the results of these two correction methods with the results of the non-adjusted test.
+
+
+# [Project 11: Regression Analysis](https://github.com/OpeyemiAyanwale/Regression_Analysis.git)
+
+Examine the relationship between the dependent (response) and independent (explanatory) variables. Select a suitable subset of independent variables for the best subset model. Evaluate the model, create a residual plot and examine it for patterns of linearity, heteroskedasticity, and normality
