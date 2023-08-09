@@ -52,6 +52,12 @@ This is a combined project that consists of data preprocessing and plots, regres
 Descriptive statistics to briefly describe the distribution of the variables. Conducted a global test and pairwise differences between all pairs of categories. Conducted two-sample tests and adjusted the test results with the Bonferroni correction and Tukey’s Honest Significant Difference (HSD). Compared the results of these two correction methods with the results of the non-adjusted test.
 
 
-# [Project 11: Regression Analysis](https://github.com/OpeyemiAyanwale/Regression_Analysis.git)
+# [Project 11: Regression Analysis](https://github.com/OpeyemiAyanwale/Regression_Analysis)
 
 Examine the relationship between the dependent (response) and independent (explanatory) variables. Select a suitable subset of independent variables for the best subset model. Evaluate the model, create a residual plot and examine it for patterns of linearity, heteroskedasticity, and normality
+
+
+# [Project 12: Inventory Management System](https://github.com/OpeyemiAyanwale/Inventory-Management-System)
+
+An inventory management system that automates end-to-end production, business management, demand forecasting, and accounting to streamline the ordering, storage, and use of inventory.
+
