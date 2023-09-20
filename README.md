@@ -42,7 +42,7 @@ Machine learning algorithm (statsmodels, sklearn) with the top 500 football play
 This is a short project on text mining (spacy, sklearn, gensim): preprocessing, tokenization, sentiment analysis and topic modeling.
 
 
-# [Project 9: Combined Project (Data preprocessing and plots, Regression, and Webscraping)](https://github.com/OpeyemiAyanwale/Combined-Project)
+# [Project 9: Data preprocessing and plots, Regression and Webscraping](https://github.com/OpeyemiAyanwale/Combined-Project)
 
 This is a combined project that consists of data preprocessing and plots, regression analysis to estimate all possible models, and webscraping that scrapes the Wikipedia articles for all US presidents and extracts specific information from each page. Start by accessing the URL 'https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States'. Then, use this page to generate a CSV file named 'US_presidents.csv'.
 
