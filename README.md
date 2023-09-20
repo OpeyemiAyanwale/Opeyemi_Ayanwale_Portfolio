@@ -61,3 +61,7 @@ Examined the relationship between the dependent (response) and independent (expl
 
 An inventory management system that automates end-to-end production, business management, demand forecasting, and accounting to streamline the ordering, storage, and use of inventory.
 
+
+# [Project 13: Sentiment Analysis Review](https://github.com/OpeyemiAyanwale/Sentiment-Analysis-Review)
+
+Sentiment analysis, prediction modeling, and negative review clustering were used to analyze 20k hotel reviews extracted from Tripadvisor via Kaggle. The findings can help the hotel industry improve customer satisfaction and decision-making processes.
