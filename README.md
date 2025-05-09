@@ -9,22 +9,22 @@ This project uses the dataset of the International Data Base (IDB) of the U.S. C
 
 # [Project 2: Microsoft SQL Database Schema Using Microsoft SQL Server Management Studio (SSMS)](https://github.com/OpeyemiAyanwale/Microsoft-SQL-Database-Schema)
 
-This project created the schema and database employees_db which has four tables: Employees, Locations, and Departments. SQL queries and subqueries was used to solve the following question in the SQL project file.
+This project created the schema and database employees_db, which has four tables: Employees, Locations, and Departments. SQL queries and subqueries were used to solve the following question in the SQL project file.
 
 
 # [Project 3: Grocery Chain Project with Microsoft SQL Server Management Studio (SSMS)](https://github.com/OpeyemiAyanwale/SQL-Query)
 
-The project requires building an Enterprise Data warehousing that addresses the analytics requirements for the business. The following databases Grocery, Grocecey Online Transaction Processing (OLTP), Grocery Staging, and Grocery Warehouse were created.
+The project requires building an Enterprise Data warehousing that addresses the analytics requirements for the business. The following databases, Grocery, Grocery Online Transaction Processing (OLTP), Grocery Staging, and Grocery Warehouse, were created.
 
 
 # [Project 4: Data Analytics Essentials with Power BI](https://github.com/OpeyemiAyanwale/Data-Analytics-Essentials-with-Power-BI)
 
-The project uses the superstore dataset for this analysis. Data preparation, modeling, and visualization were carried out using Microsoft Power BI combined with Excel.
+The project uses the Superstore dataset for this analysis. Data preparation, modeling, and visualization were carried out using Microsoft Power BI combined with Excel.
 
 
 # [Project 5: Multivariate Data Analysis in R](https://github.com/OpeyemiAyanwale/Multivariate-Analysis-in-R)
 
-Cluster analysis was conducted with the Chatterjee-price attitude dataset which can be found in the datasets package in R. The data is aggregated from a survey of clerical employees which contains 35 employees from 30 randomly selected departments. Non-hierarchical (k-means)method is used to determine the distinct group in the Chatterjee-price attitude data.
+Cluster analysis was conducted with the Chatterjee-Price attitude dataset, which can be found in the datasets package in R. The data is aggregated from a survey of clerical employees, which contains 35 employees from 30 randomly selected departments. The non-hierarchical (k-means)method is used to determine the distinct groups in the Chatterjee-price attitude data.
 
 
 # [Project 6: Data Preprocessing with Python](https://github.com/OpeyemiAyanwale/Data-Preprocessing-Python)
@@ -65,3 +65,8 @@ An inventory management system that automates end-to-end production, business ma
 # [Project 13: Sentiment Analysis Review](https://github.com/OpeyemiAyanwale/Sentiment-Analysis-Review)
 
 Sentiment analysis, prediction modeling, and negative review clustering were used to analyze 20k hotel reviews extracted from Tripadvisor via Kaggle. The findings can help the hotel industry improve customer satisfaction and decision-making processes.
+
+
+# [Project 14: Eye Tracking Analysis](https://github.com/OpeyemiAyanwale/Eye-Tracking-Analysis)
+Investigating age-related trends in fixation durations and identifying systematic patterns in fixation behaviour throughout an experiment using the Dutch Science Museum Nemo eye-tracking dataset.
+
