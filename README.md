@@ -70,3 +70,6 @@ Sentiment analysis, prediction modeling, and negative review clustering were use
 # [Project 14: Eye Tracking Analysis](https://github.com/OpeyemiAyanwale/Eye-Tracking-Analysis)
 Investigating age-related trends in fixation durations and identifying systematic patterns in fixation behaviour throughout an experiment using the Dutch Science Museum Nemo eye-tracking dataset.
 
+
+# [Project 15: Exploring the Effects of Socioecobomic Factors on Well-beings](https://github.com/OpeyemiAyanwale/Effects-of-Socioeconomic-Factors-on-Well-being)
+Examining the key determinants contributing to life satisfaction in Germany and comparing these findings with international contexts, specifically the United States and China, using the World Values Survey Wave 7 (2012- 2022) and time-series data of the WVS.
