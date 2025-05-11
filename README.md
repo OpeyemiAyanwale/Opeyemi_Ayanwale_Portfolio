@@ -1,6 +1,6 @@
 Hi, I’m Opeyemi Ayanwale — a data analyst with strong analytical and quantitative skills, passionate about turning complex data into actionable insights. I enjoy working on projects that drive operational improvements and support strategic decision-making through data.
 
-I specialize in SQL, Python, A/B testing, data visualization, and business intelligence tools. My work spans user behavior analysis, product experimentation, and reporting automation.
+I specialize in SQL, Python, R, data visualization, A/B testing, and business intelligence tools. My work spans user behavior analysis, product experimentation, and reporting automation.
 
 Feel free to explore some of the projects I’ve worked on below — each showcases my approach to solving real-world problems with data.
 
