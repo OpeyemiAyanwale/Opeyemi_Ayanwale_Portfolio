@@ -6,7 +6,7 @@ Feel free to explore some of the projects I’ve worked on below — each showca
 
 # [Project 17: Enhancing Accommodation Data Quality and User Engagement at Trivago](https://github.com/OpeyemiAyanwale/Trivago_Project_Overview)
 
-A collection of data-driven projects focused on improving accommodation content quality, user experience, and platform analytics at Trivago. This project demonstrates the application of advanced data analysis, natural language processing (NLP), and experimental design techniques to real-world product and content challenges.
+A collection of data-driven projects focused on improving accommodation content quality, user experience, and platform analytics at Trivago. This project demonstrates the application of advanced data analysis, natural language processing (NLP), and experimental design and data quality techniques to solve real-world product and content challenges.
 
 
 # [Project 16: Natural Language Processing Project Tasks Overview](https://github.com/OpeyemiAyanwale/Natural-Language-Process-Tasks)
