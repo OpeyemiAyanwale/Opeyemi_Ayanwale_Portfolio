@@ -1,9 +1,12 @@
-Hi, I’m Opeyemi Ayanwale — a data analyst with strong analytical and quantitative skills, passionate about turning complex data into actionable insights. I enjoy working on projects that drive operational improvements and support strategic decision-making through data.
+Hi, I’m Opeyemi Ayanwale — a data analyst/data scientist with strong analytical and quantitative skills, passionate about turning complex data into actionable insights. I enjoy working on projects that drive operational improvements and support strategic decision-making through the use of data.
 
-I specialize in SQL, Python, R, data visualization, A/B testing, and business intelligence tools. My work spans user behavior analysis, product experimentation, and reporting automation.
+I specialize in SQL, Python, R, data visualization, A/B testing, and business intelligence tools. My work encompasses user behavior analysis, product experimentation, and automated reporting.
 
 Feel free to explore some of the projects I’ve worked on below — each showcases my approach to solving real-world problems with data.
 
+# [Project 17: Trivago Project Tasks Overview](https://github.com/OpeyemiAyanwale/Trivago_Project_Overview)
+
+A collection of data analysis and data science projects inspired by real-world problems tackled during my time working on Trivago-related analytics tasks, focusing on user behavior, accommodation-hotelier data, and data-driven decision making.
 
 
 # [Project 16: Natural Language Processing Project Tasks Overview](https://github.com/OpeyemiAyanwale/Natural-Language-Process-Tasks)
